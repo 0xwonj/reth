@@ -3654,6 +3654,7 @@ dependencies = [
  "eyre",
  "futures-util",
  "reth-ethereum",
+ "reth-transaction-pool",
 ]
 
 [[package]]
